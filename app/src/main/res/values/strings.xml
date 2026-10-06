@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">json_pr_31_taztdinova</string>
+    <string name="header">Карточка товара</string>
+    <string name="hint_name">Название товара</string>
+    <string name="hint_price">Стоимость</string>
+    <string name="hint_tags">Теги (через запятую)</string>
+    <string name="btn_to_json">В JSON</string>
+    <string name="btn_from_json">Из JSON</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="label_json">Результат сериализации:</string>
+    <string name="label_object">Результат десериализации:</string>
+    <string name="error_fields">Введите название и стоимость</string>
+    <string name="error_no_json">JSON-строка пустая</string>
+</resources>
